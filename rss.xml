@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mmelo]]></title>
+        <description><![CDATA[mmelo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 05:42:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MMELO @ CMOA]]></title>
+            <description><![CDATA[<article><h1>MMELO @ CMOA</h1><p>We are absolutely thrilled to announce a small range of MMELO goodies are now available at the Columbus Museum of Art ..!This Banana Caramel tea cake in a tropical blue sea is a custom CMOA Van Gogh inspired color finish, and only available in the Museum Store. Treat your eyes with a visit to the fantastic newly opened Margaret M Walter Wing of the Museum, and your taste buds with a visit to their store.</p></article>]]></description>
+            <link>undefinedmmelo-cmoa/index.html</link>
+            <guid isPermaLink="false">311d0834-09cc-4a51-8480-4c9e90ef12a0</guid>
+            <pubDate>Tue, 29 Mar 2016 05:42:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
